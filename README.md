@@ -6,7 +6,7 @@ Football (soccer) is the #1 sport in the UK, with the Premier League being one o
 
 ### Specifications
 **Data source**: REST API football-data  
-**Data quality**: filter the "useful" data out of the raw json file
+**Data quality**: filter the "useful" data out of the raw json file  
 **Documentation**: data catolog
 
 ### Architecture
