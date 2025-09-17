@@ -11,4 +11,5 @@ Football (soccer) is the #1 sport in the UK, with the Premier League being one o
 
 ### Architecture
 
-<img width="601" height="343" alt="PL STANDINGS" src="https://github.com/user-attachments/assets/8f73913b-c1b9-4c43-8ed3-095bd848cc54" />
+
+<img width="603" height="412" alt="PL STANDINGS Airflow" src="https://github.com/user-attachments/assets/4dda25d5-3499-4321-95dd-b44340c17b81" />
